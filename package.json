@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "JavaScript basic coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/venithavk"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "venitha",
+  "license": "ISC"
+}
